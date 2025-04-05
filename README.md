@@ -1,7 +1,3 @@
-<!-- YES BANK LOGO -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Yes_Bank_logo.svg/2560px-Yes_Bank_logo.svg.png" alt="Yes Bank" width="300"/>
-</p>
 
 # 📈 Yes Bank Stock Closing Price Prediction | Machine Learning Project
 
